@@ -3,3 +3,5 @@ enkele kleuren van de regenboog
 blauw
 rood
 geel
+groen
+oranje
