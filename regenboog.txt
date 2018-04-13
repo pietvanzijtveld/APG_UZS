@@ -5,3 +5,4 @@ paars
 geel
 groen
 oranje
+indigo
