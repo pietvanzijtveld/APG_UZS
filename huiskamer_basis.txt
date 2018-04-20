@@ -2,3 +2,9 @@ boekenkast
 bank
 huiskamer tafel
 vloerkleed
+4 muren
+raam
+leidingen
+bedrading
+houten vloer
+deur naar gang
