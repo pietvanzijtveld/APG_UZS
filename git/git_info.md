@@ -4,7 +4,7 @@
 Use a separate branch for each feature or issue you work on. After creating a branch, check it out locally so that any changes you make will be on that branch.
 - eerst naar master switchen: `git checkout master`
 - `git checkout -b new-feature`
-- 
+
 ## Zie branches
 `$ git branch -v`
 `git branch --all`
@@ -31,3 +31,6 @@ branches on `git branch --merged` without a * are fine to delete (seen from the 
 - `git log --stats`
 - `git log --patch-with-stats`
 
+#### status remote
+- `git remote -v show origin`
+- `git ls-remote`
